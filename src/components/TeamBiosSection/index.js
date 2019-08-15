@@ -17,33 +17,39 @@ function TeamBiosSection(props) {
         <TeamBios
           people={[
             {
-              avatar: "https://uploads.divjoy.com/pravatar-150x-68.jpeg",
-              name: "John Smith",
-              role: "Software Engineer",
+              avatar: "http://pluspng.com/img-png/user-png-icon-male-user-icon-512.png",
+              name: "Greg Lind",
+              role: "CEO",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae, quas accusantium perferendis sapiente explicabo.",
-              twitterUrl: "https://twitter.com",
-              facebookUrl: "https://facebook.com",
+                "Bio",
+              twitterUrl: "https://twitter.com/glind",
               linkedinUrl: "https://linkedin.com"
             },
             {
-              avatar: "https://uploads.divjoy.com/pravatar-150x-35.jpeg",
-              name: "Lisa Zinn",
-              role: "Software Engineer",
+              avatar: "http://pluspng.com/img-png/user-png-icon-male-user-icon-512.png",
+              name: "Jeferson Moura",
+              role: "CTO",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae, quas accusantium perferendis sapiente explicabo, corporis totam! Labore reprehenderit beatae magnam animi!",
-              twitterUrl: "https://twitter.com",
-              facebookUrl: "https://facebook.com",
+                "Bio",
+              twitterUrl: "https://twitter.com/jefmouram",
               linkedinUrl: "https://linkedin.com"
             },
             {
-              avatar: "https://uploads.divjoy.com/pravatar-150x-16.jpeg",
-              name: "Diana Low",
-              role: "Designer",
+              avatar: "http://pluspng.com/img-png/user-png-icon-male-user-icon-512.png",
+              name: "Karrla Sandstrom",
+              role: "COO",
               bio:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequatur numquam aliquam tenetur ad amet inventore hic beatae, quas accusantium perferendis sapiente explicabo, corporis totam! Labore reprehenderit beatae magnam animi!",
+                "Bio",
               twitterUrl: "https://twitter.com",
-              facebookUrl: "https://facebook.com",
+              linkedinUrl: "https://linkedin.com"
+            },
+            {
+              avatar: "http://pluspng.com/img-png/user-png-icon-male-user-icon-512.png",
+              name: "Parag Narvekar",
+              role: "CPO",
+              bio:
+                "Bio",
+              twitterUrl: "https://twitter.com",
               linkedinUrl: "https://linkedin.com"
             }
           ]}

@@ -17,12 +17,12 @@ function AboutPage(props) {
         title="We help you build ideas"
         subtitle="Buildy is Software architecture as a service. It's a set of tools that allows teams to build and prototype their products, link real data APIs and ship faster than ever."
       />
-      {/* <TeamBiosSection
+      <TeamBiosSection
         color="white"
         size="medium"
         title="Meet the Team"
         subtitle=""
-      /> */}
+      />
       <CtaSection
         color="primary"
         size="medium"
